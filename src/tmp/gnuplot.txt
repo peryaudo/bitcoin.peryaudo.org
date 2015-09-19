@@ -1,0 +1,4 @@
+set xl "block height"
+set yl "BTC"
+set format x "%o"
+plot [0:6930000] 50 * (2 ** (-floor(x/210000)))
