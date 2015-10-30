@@ -61,7 +61,7 @@
 
 ### 連絡先・免責など
 
-質問や要望などございましたら、![](http://peryaudo.org/mail.png)か[@peryaudo](https://twitter.com/peryaudo)まで。（Twitterのほうが返事は早いと思います）
+質問や要望などございましたら、peryaudo@gmail.comか[@peryaudo](https://twitter.com/peryaudo)まで。（Twitterのほうが返事は早いと思います）
 
 よく調べた上で書いているつもりですが、間違いを含んでいるかもしれません。もし間違いを見つけましたら、ご連絡いただけると幸いです。
 
