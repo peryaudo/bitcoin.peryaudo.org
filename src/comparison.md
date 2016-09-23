@@ -55,13 +55,6 @@ SPV（Simplified Payment Verification）クライアントは、原則的に各�
 
 Bitcoinウォレットの動作原理とは関係がないが、実際にウォレットを使う上で知っていると役に立つ概念をいくつか紹介する。
 
-### bootstrap.dat
-通常のステップを踏んだ場合、Bitcoin-Qtのセットアップには数時間以上かかる。しかし、Bitcoinのプロトコルは高速転送のためには設計されていないので、実際にはブロックチェーンをより速くダウンロードすることが可能である。
-
-そこで、セットアップのために、ブロックチェーンのデータをBitTorrentなどの、より高速な手段でダウンロードし、それをインポートすることで、セットアップ時間を短縮することができる。.torrentファイルは以下のリンクからダウンロードできる。
-
-* [Bitcoin - Browse /Bitcoin/blockchain at SourceForge.net](http://sourceforge.net/projects/bitcoin/files/Bitcoin/blockchain/)
-
 ### デターミニスティック・ウォレット
 
 デターミニスティック・ウォレット（Deterministic Wallet; 決定論的ウォレット）は、シード（seed; 種）と呼ばれる単一のパスフレーズから、複数のBitcoinアドレスを生成する仕組みである。
