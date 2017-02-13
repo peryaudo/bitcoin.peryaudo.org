@@ -29,7 +29,7 @@ Bitcoinは、2008年、Satoshi Nakamotoを名乗る人物ががThe Cryptography 
 はじめ、Bitcoinの価格はほぼ0であり、2011年7月の一時的な高騰などを経つつも、ほぼ変化のない近い状態で推移してきた。
 しかしながら、2013年3月ごろに発生したキプロス危機に端を発し、急激に注目されるようになった結果、一時的に1 BTC = 1000 USD台までの値をつけた。その後、Mt.Goxの破綻や中国におけるBitcoin規制などを要因に、最高値の半額以下まで値崩れを起こすも、現時点（2014年中旬）では1 BTC = 500〜600 USD程度にて取引されている。
 
-<div id="btc-quote"></div><script type="text/javascript" src="//cdn-gh.firebase.com/btcquote/embed.js"></script>
+<div id="coindesk-widget"></div><script type="text/javascript" src="//widget.coindesk.com/bpiticker/coindesk-widget.min.js"></script>
 
 Bitcoinを取り巻くスキャンダルとは裏腹に、Bitcoinを支払い手段として受け入れる企業などは確実に増加してきている。
 
