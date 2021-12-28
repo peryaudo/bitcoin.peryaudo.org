@@ -49,8 +49,6 @@
 </div>
 </div>
 
-寄付（Bitcoinアドレス）: 1CNM435v5GwYLrN8d2siXstQwB5rixM2wy
-
 ### 更新履歴
 
 <!--UPDATES-->
